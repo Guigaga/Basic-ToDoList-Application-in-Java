@@ -18,7 +18,7 @@ ToDoList is a simple Java application that allows users to manage their tasks ef
 
 - Java Development Kit (JDK) installed on your machine.
 
-### Installation and Usage
+## Installation and Usage
 
 1. Clone the repository to your local machine using Git:
 
@@ -38,9 +38,9 @@ ToDoList is a simple Java application that allows users to manage their tasks ef
 5. Use the displayed menu options to add, remove, or view tasks.
 
 
-### Contributing
+## Contributing
 
 Contributions are welcome! If you find a bug or have any suggestions, feel free to open an issue or create a pull request.
 
-### Author
+## Author
 Guilherme Guerreiro
