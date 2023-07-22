@@ -1,7 +1,7 @@
 # ToDoList - Simple Java Task Management Application
 
 <p align="center">
-  <img src="https://github.com/Guigaga/Basic-ToDoList-Application-in-Java/assets/109106000/270cb357-fcda-45ee-8b08-4e0a50e7606d" alt="ToDoList Preview">
+  <img src="ToDoList.png" alt="ToDoList Preview">
 </p>
 
 ToDoList is a simple Java application that allows users to manage their tasks effectively. The program provides basic functionalities to add, remove, and view pending tasks using a command-line interface.
