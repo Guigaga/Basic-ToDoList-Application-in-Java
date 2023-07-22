@@ -12,13 +12,13 @@ ToDoList is a simple Java application that allows users to manage their tasks ef
 - Remove tasks by specifying their index.
 - View the list of pending tasks.
 
-## Getting Started
+# Getting Started
 
 ### Prerequisites
 
 - Java Development Kit (JDK) installed on your machine.
 
-## Installation and Usage
+### Installation and Usage
 
 1. Clone the repository to your local machine using Git:
 
