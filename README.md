@@ -23,15 +23,15 @@ ToDoList is a simple Java application that allows users to manage their tasks ef
 
    ```bash
    git clone https://github.com/Guigaga/ToDoList.git
-   
+   ```
 2. Change directory to the project folder:
-   
+   ```bash
    cd ToDoList
-   
+   ```
 3. Compile the Java source files:
- 
+   ```bash
    javac ToDoList.java
-   
+   ```
 4. Follow the on-screen instructions to interact with the application.
 
 5. Use the displayed menu options to add, remove, or view tasks.
